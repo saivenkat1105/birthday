@@ -36,6 +36,49 @@ img{
     left:75%;
     animation: ball 2s ease-in-out infinite; 
 }
+
+#g16{
+    left:50%;
+    animation: ball 2s ease-in-out infinite; 
+}
+
+#g17{
+    left:25%;
+    animation: ball 2s ease-in-out infinite; 
+}
+
+#g5{
+    left:75%;
+	bottom: 25%
+    animation: ball 2s ease-in-out infinite; 
+}
+
+#g6{
+    left:50%;
+	bottom: 25%
+    animation: ball 2s ease-in-out infinite; 
+}
+
+#g7{
+    left:25%;
+	bottom: 25%
+    animation: ball 2s ease-in-out infinite; 
+}
+
+#g8{
+    left:75%;
+    animation: ball 2s ease-in-out infinite; 
+}
+#g9{
+    bottom:25%;
+    animation: ball 2s ease-in-out infinite; 
+}
+
+#g10{
+    left:75%;
+	bottom:50%;
+    animation: ball 2s ease-in-out infinite; 
+}
 div{
     padding: 10%;
 }
