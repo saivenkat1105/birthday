@@ -49,28 +49,28 @@ img{
 }
 
 #g5{
-	bottom: 37.5%;
+    bottom: 37.5%;
     left:75%;
 
     animation: ball 2s ease-in-out infinite; 
 }
 
 #g6{
-	bottom: 37.5%;
+    bottom: 37.5%;
     left:50%;
 
     animation: ball 2s ease-in-out infinite; 
 }
 
 #g7{
-	bottom: 37.5%;
+    bottom: 37.5%;
     left:25%;
 	
     animation: ball 2s ease-in-out infinite; 
 }
 
 #g8{
-	bottom:75%;
+    bottom:75%;
     left:75%;
 	
     animation: ball 2s ease-in-out infinite; 
@@ -81,7 +81,7 @@ img{
 }
 
 #g10{
-bottom:75%;
+    bottom:75%;
     left:75%;
 
     animation: ball 2s ease-in-out infinite; 
